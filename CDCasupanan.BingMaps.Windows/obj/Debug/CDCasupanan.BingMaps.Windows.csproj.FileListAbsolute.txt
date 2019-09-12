@@ -1,0 +1,17 @@
+C:\Users\COMLABPC8\source\repos\CDCasupanan.BingMaps\CDCasupanan.BingMaps.Windows\bin\Debug\CDCasupanan.BingMaps.Windows.exe.config
+C:\Users\COMLABPC8\source\repos\CDCasupanan.BingMaps\CDCasupanan.BingMaps.Windows\bin\Debug\CDCasupanan.BingMaps.Windows.exe
+C:\Users\COMLABPC8\source\repos\CDCasupanan.BingMaps\CDCasupanan.BingMaps.Windows\bin\Debug\CDCasupanan.BingMaps.Windows.pdb
+C:\Users\COMLABPC8\source\repos\CDCasupanan.BingMaps\CDCasupanan.BingMaps.Windows\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\COMLABPC8\source\repos\CDCasupanan.BingMaps\CDCasupanan.BingMaps.Windows\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\COMLABPC8\source\repos\CDCasupanan.BingMaps\CDCasupanan.BingMaps.Windows\obj\Debug\CDCasupanan.BingMaps.Windows.csprojResolveAssemblyReference.cache
+C:\Users\COMLABPC8\source\repos\CDCasupanan.BingMaps\CDCasupanan.BingMaps.Windows\obj\Debug\MainWindow.g.cs
+C:\Users\COMLABPC8\source\repos\CDCasupanan.BingMaps\CDCasupanan.BingMaps.Windows\obj\Debug\App.g.cs
+C:\Users\COMLABPC8\source\repos\CDCasupanan.BingMaps\CDCasupanan.BingMaps.Windows\obj\Debug\CDCasupanan.BingMaps.Windows_MarkupCompile.cache
+C:\Users\COMLABPC8\source\repos\CDCasupanan.BingMaps\CDCasupanan.BingMaps.Windows\obj\Debug\CDCasupanan.BingMaps.Windows_MarkupCompile.lref
+C:\Users\COMLABPC8\source\repos\CDCasupanan.BingMaps\CDCasupanan.BingMaps.Windows\obj\Debug\MainWindow.baml
+C:\Users\COMLABPC8\source\repos\CDCasupanan.BingMaps\CDCasupanan.BingMaps.Windows\obj\Debug\CDCasupanan.BingMaps.Windows.g.resources
+C:\Users\COMLABPC8\source\repos\CDCasupanan.BingMaps\CDCasupanan.BingMaps.Windows\obj\Debug\CDCasupanan.BingMaps.Windows.Properties.Resources.resources
+C:\Users\COMLABPC8\source\repos\CDCasupanan.BingMaps\CDCasupanan.BingMaps.Windows\obj\Debug\CDCasupanan.BingMaps.Windows.csproj.GenerateResource.Cache
+C:\Users\COMLABPC8\source\repos\CDCasupanan.BingMaps\CDCasupanan.BingMaps.Windows\obj\Debug\CDCasupanan.BingMaps.Windows.csproj.CoreCompileInputs.cache
+C:\Users\COMLABPC8\source\repos\CDCasupanan.BingMaps\CDCasupanan.BingMaps.Windows\obj\Debug\CDCasupanan.BingMaps.Windows.exe
+C:\Users\COMLABPC8\source\repos\CDCasupanan.BingMaps\CDCasupanan.BingMaps.Windows\obj\Debug\CDCasupanan.BingMaps.Windows.pdb
